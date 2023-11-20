@@ -1,4 +1,4 @@
-# java-servlet-hello
+# bkacad-movies-example
 Hello world web application with Maven + Java + Servlets + Tomcat
 
 ## Compile app 

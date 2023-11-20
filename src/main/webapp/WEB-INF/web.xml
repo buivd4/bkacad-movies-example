@@ -9,7 +9,7 @@
 
   <servlet-mapping>
     <servlet-name>Movie</servlet-name>
-    <url-pattern>/movie</url-pattern>
+    <url-pattern>/movie/*</url-pattern>
   </servlet-mapping>
 
   <error-page>
